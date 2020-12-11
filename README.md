@@ -30,3 +30,11 @@ Por fim, o resultado final da compilação do código fonte resultará no progra
     <img style="width:70%" alt="proffy-lks" src="https://i.ibb.co/J2Fntqm/Final.png" />
     <br>
 </h1>
+
+
+#Passos
+A geração do resultado final (programa.c) se dá pela execução do 'Analisador Semântico.py'. Para isso, se faz necessário sua execução no formato personalizado, 
+o qual permite a inserção de um arquivo que será utilizado pelo próprio código, através do módulo 'sys'. O arquivo diz respeito ao programa fonte, que está 
+definido como 'fonteLexico.txt'. 
+
+Ao finalizar a execução do semântico, em sua própria pasta será criado o arquivo 'programa.c', contendo a versão em C do programa em MGOL.
