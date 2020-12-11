@@ -32,7 +32,7 @@ Por fim, o resultado final da compilação do código fonte resultará no progra
 </h1>
 
 
-#Passos
+## Passos
 A geração do resultado final (programa.c) se dá pela execução do 'Analisador Semântico.py'. Para isso, se faz necessário sua execução no formato personalizado, 
 o qual permite a inserção de um arquivo que será utilizado pelo próprio código, através do módulo 'sys'. O arquivo diz respeito ao programa fonte, que está 
 definido como 'fonteLexico.txt'. 
